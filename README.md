@@ -10,7 +10,7 @@ Built using **Streamlit + Scikit-learn + XGBoost + Plotly** and deployed on **Hu
 ---
 
 ## 🚀 Live Demo
-👉 https://huggingface.co/spaces/YOUR_USERNAME/YOUR_APP_NAME
+https://naitri-2007-codealpha-diseaseprediction.hf.space/#multi-disease-prediction-system
 
 ---
 
